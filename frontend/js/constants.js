@@ -1,9 +1,9 @@
-const contractAddress = "YOUR CONTRACT ADDRESS"; // Replace with your own contract address
+const contractAddress = "0xb13D620d50812C60c7ced405b160597C4E841Fe6"; // Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Welcome to the Shero Club NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = "The Shero Club NFT Project is a shoutout to amazing everyday sheroes.";
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
@@ -17,6 +17,7 @@ const p_public_mint = "No whitelist needed. Public minting is now open! 🎉";
 const button_presale_coming_soon = "Get on the Whitelist";
 const button_presale_mint_whitelisted = "Mint Your Special NFT";
 const button_presale_mint_not_whitelisted = "Get on the Whitelist";
-const button_presale_already_minted = "Join The Community";
+const button_presale_already_minted = "Join The Club";
 const button_public_mint = "Mint Your NFT";
 const mint_failed = "Minting failed. 😢 Please try again.";
+
